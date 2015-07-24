@@ -34,7 +34,7 @@
     <Switch
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="mySwitch"
+        android:text="Light"
         android:id="@+id/mySwitch"
         android:layout_below="@+id/textView"
         android:layout_alignParentLeft="true"
